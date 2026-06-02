@@ -1,0 +1,13 @@
+langgraph>=0.2
+langchain-openai>=0.1
+openai>=1.0
+feedparser
+requests
+beautifulsoup4
+httpx
+jieba
+sentence-transformers
+chromadb
+apscheduler
+streamlit
+python-dotenv
